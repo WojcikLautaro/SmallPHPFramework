@@ -1,0 +1,33 @@
+# Composer vendor directory
+/vendor/
+
+# Laravel-like environment files (if added in future)
+/.env
+
+# PHPStorm/JetBrains IDEs
+/.idea/
+
+# Logs and cache
+/logs/
+/storage/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.bak
+*.tmp
+*.7z
+*.zip
+
+# PHPUnit
+.phpunit.result.cache
+
+# Node (in case you add frontend tooling)
+/node_modules/
+/dist/
+
+# Coverage reports
+/coverage/
