@@ -12,6 +12,7 @@
 - [ ] ORM (Object-Relational Mapping)
 - [ ] File Upload Management
 - [ ] Job Scheduling (Maintenance)
+- [ ] Implement route grouping with prefix and middleware inheritance
 - [✓] Error Handling and Reporting (Logging)
 - [✓] Middleware System
 - [✓] Routing Enhancements (Named Routes, Dynamic Parameters)
